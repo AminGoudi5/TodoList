@@ -1,0 +1,17 @@
+body{
+    background:linear-gradient(#301E67,#B6EADA);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h1{
+    text-shadow: 5px 5px 10px #301E67;
+}
+#icon1 , #icon2{
+    cursor: pointer;
+}
+#icon1:hover{
+    color: #0be93f;
+}
+#icon2:hover{
+    color: #e90b0b;
+}
